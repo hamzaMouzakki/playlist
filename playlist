@@ -1,0 +1,31 @@
+#EXTM3U
+
+# ====== MBC GROUP ======
+
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1" group-title="MENA | Entertainment",MBC 1
+# Add your working stream here
+
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2" group-title="MENA | Movies",MBC 2
+# Add your working stream here
+
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3" group-title="MENA | Kids",MBC 3
+# Add your working stream here
+
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-name="MBC 4" group-title="MENA | Series",MBC 4
+# Add your working stream here
+
+# ====== KIDS ======
+
+#EXTINF:-1 tvg-id="Spacetoon.ae" tvg-name="Spacetoon" group-title="MENA | Kids",Spacetoon
+# Add your working stream here
+
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-name="Cartoon Network Arabic" group-title="MENA | Kids",Cartoon Network Arabic
+# Add your working stream here
+
+# ====== NEWS ======
+
+#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-name="Al Arabiya" group-title="MENA | News",Al Arabiya
+# Add your working stream here
+
+#EXTINF:-1 tvg-id="AlJazeera.ar" tvg-name="Al Jazeera Arabic" group-title="MENA | News",Al Jazeera Arabic
+# Add your working stream here
